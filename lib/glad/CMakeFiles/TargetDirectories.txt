@@ -1,0 +1,3 @@
+/home/maciek/mcpp/lib/glad/CMakeFiles/rebuild_cache.dir
+/home/maciek/mcpp/lib/glad/CMakeFiles/edit_cache.dir
+/home/maciek/mcpp/lib/glad/CMakeFiles/glad.dir
