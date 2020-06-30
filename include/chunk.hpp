@@ -1,6 +1,10 @@
 #ifndef MCPP_CHUNK_HPP
 #define MCPP_CHUNK_HPP
 
+namespace mc {
+    class Chunk;
+}
+
 #include "chunkmesh.hpp"
 
 namespace mc {
